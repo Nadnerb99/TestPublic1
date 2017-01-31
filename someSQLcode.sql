@@ -1,4 +1,4 @@
 SELECT 
-  wrong_answer as  right_answer
+  correct_answer as  final_answer
 FROM
   some_table
